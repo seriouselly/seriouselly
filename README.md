@@ -18,14 +18,7 @@ I'm a passionate Frontend Developer with a strong foundation in **HTML, CSS, Jav
 - **Languages:** HTML, CSS, JavaScript, Typescript
 - **Frameworks:** React
 - **Other:** Responsive Design, UI/UX Principles
-
----
-
-## 📌 Favorite Project
-
-- [Nightlearn Slicing HTML](https://github.com/seriouselly/nightlearn-slicing-html.git)  
-  A showcase of my skills in HTML and CSS slicing, focused on clean structure and design best practices.
-
+  
 ---
 
 ## 🌐 Connect with Me
