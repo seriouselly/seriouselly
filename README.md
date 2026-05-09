@@ -31,10 +31,10 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seriouselly&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="195px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seriouselly&layout=compact&theme=tokyonight&hide_border=true" height="195px" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=seriouselly&theme=tokyonight&hide_border=true" />
